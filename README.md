@@ -1,8 +1,7 @@
 #! /usr/bin/python
-# -*- coding:utf-8 -*-
+＃ -  *  - 编码：utf-8  -  *  - 
 
-
-"""
+“””
   @author ChinaWeChat:发现美的眼睛
   @version 1.0
 """
